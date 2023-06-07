@@ -80,10 +80,11 @@ Qkart_Store is an ecommerce app which frontend build upon React.js. users may bu
 
 <h1> <b>Glance through the QKart architecture</b></h1>
 <hr>
-![Qkart_design](https://github.com/amitrahul/Qkart_Store/assets/66786601/623661a4-bd1f-46c3-8ed9-fdd60260947e)
-
 
 ![Qkart_architecture](https://github.com/amitrahul/Qkart_Store/assets/66786601/04835264-3624-42fc-9ad9-6127219873cf)
+
+<hr>
+![Qkart_design](https://github.com/amitrahul/Qkart_Store/assets/66786601/e4b096e5-d06c-42f0-9790-b4484a72ce7d)
 
 
 
