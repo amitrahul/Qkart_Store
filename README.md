@@ -1,4 +1,4 @@
-📄 ⚖️# Qkart_Store
+📄 ⚖️ 📩# 
 Qkart_Store is an ecommerce app which frontend build upon React.js. users may buy various product from different category. It has various features like login logout features,register and login pages, products page, Checkout Page, Order Confirmation Page.  
 
 <h1> <b> Featues ▶️</b> </h1>
@@ -80,11 +80,8 @@ Qkart_Store is an ecommerce app which frontend build upon React.js. users may bu
 
 <h1> <b>Glance through the QKart architecture</b></h1>
 <hr>
-
 ![Qkart_architecture](https://github.com/amitrahul/Qkart_Store/assets/66786601/04835264-3624-42fc-9ad9-6127219873cf)
 
-<hr>
-![Qkart_design](https://github.com/amitrahul/Qkart_Store/assets/66786601/e4b096e5-d06c-42f0-9790-b4484a72ce7d)
 
 
 
